@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-factory-method/cours/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-factory-method/enrichi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-abstract-factory/cours/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-abstract-factory/enrichi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-singleton/cours/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-singleton/enrichi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-builder/cours/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-builder/enrichi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-prototype/cours/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-prototype/enrichi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
